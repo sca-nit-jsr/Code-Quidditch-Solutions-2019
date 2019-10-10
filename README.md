@@ -34,6 +34,6 @@ Name: Your Name`
 4) Make a pull request and if code is verified your request will be merged.
 
 ## Repository Maintainer:
-Name : Deepak Chauhan
+**Name : Deepak Chauhan**
 
-GitHub Profile : [RoyalEagle73](https://Github.com/RoyalEagle73)
+**GitHub Profile : [RoyalEagle73](https://Github.com/RoyalEagle73)**
