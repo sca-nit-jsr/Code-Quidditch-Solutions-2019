@@ -10,6 +10,7 @@ All solutions to Code-Quidditch Competition held by Society Of Computer Applicat
 ## Steps for contributing:
 1) Fork this repository.
 2) Add your code with given format in the first line in comments of code.
+
 `//Author Name: Your Name
 // GitHub Profile : Your GitHub profile link
 `
