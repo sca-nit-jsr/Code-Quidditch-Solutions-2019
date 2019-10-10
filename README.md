@@ -1,5 +1,5 @@
 # Code-Quidditch-Solutions-2019
-All solutions to Code-Quidditch Competition held by Society Of Computer Applications will be available here.
+All solutions to Code-Quidditch Competition held by **Society Of Computer Applications** will be available here.
 
 ## Steps :
 1) Find the respective folder for the Question name.
