@@ -1,6 +1,8 @@
 # Code-Quidditch-Solutions-2019
 All solutions to Code-Quidditch Competition held by **Society Of Computer Applications** will be available here.
+
 Date of Competition : 09th October 2019
+
 Competition URL : [Code-Quidditch](https://www.hackerearth.com/challenges/college/Code-Quidditch/)
 
 ## Steps :
