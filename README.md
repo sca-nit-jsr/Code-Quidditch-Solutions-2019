@@ -16,9 +16,9 @@ Competition URL : [Code-Quidditch](https://www.hackerearth.com/challenges/colleg
 2) Add your code with given format in the first line in comments of code.
 
 `
-//Author Name: Your Name`
+Author Name: Your Name`
 
-`// GitHub Profile : Your GitHub profile link`
+`GitHub Profile : Your GitHub profile link`
 
 3) Add your name in Contributors.md file in given format.
 
