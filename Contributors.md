@@ -7,3 +7,13 @@
   Question Solved : Rotate String, Swachh Bharat
 
   Language Used : Python3
+
+## Contributor - 2
+
+  Name: Balasubramanian.R
+  
+  GitHub Profile : [CyberKid2311](https://github.com/Cyberkid2311)
+  
+  Question Solved : Special Price, Rotate String, Swachh Bharat, Excited Sunny!!!, Binary Movement.
+  
+  Language Used : C++
