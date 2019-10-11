@@ -4,6 +4,6 @@
 
   GitHub Profile : [RoyalEagle73](https://Github.com/RoyalEagle73)
 
-  Question Solved : Rotate String, Swachh Bharat
+  Question Solved : Rotate String, Swachh Bharat, Binary Movement, Excited Sunny !!!
 
   Language Used : Python3
