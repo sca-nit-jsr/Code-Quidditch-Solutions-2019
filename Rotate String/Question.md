@@ -3,6 +3,7 @@
 ## Problem URL
 [Rotate String](https://www.hackerearth.com/challenges/college/Code-Quidditch/algorithm/4e4b61ed72e04e88aa9824c0e774e62f/)
 
+## Problem Statement
 You are given a string and a number of queries to perform. For each query you have to rotate the string either left or right. For example, if the string is abcde, rotating left by 1 character will give bcdea. Now rotating again right by 1 character will give abcde back.
 
 Find the resultant string after performing all the queries.
