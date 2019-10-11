@@ -1,6 +1,10 @@
 /*Author Name: Balasubramanian R
   Github Link: https://github.com/Cyberkid2311 */
 
+/* The Main aim of the Question is to find the Cumulative sum of the Elements
+    taking into account the occurences of that particular element and 
+    Manipulate it to find the Solution */
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -53,3 +57,5 @@ int main()
 
     return 0;
 }
+
+  //  ---TEAM SCA---
