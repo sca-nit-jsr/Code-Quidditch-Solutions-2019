@@ -1,8 +1,11 @@
+/*Author Name: Balasubramanian R
+  Github Link: https://github.com/Cyberkid2311 */
+
 #include <bits/stdc++.h>
 using namespace std;
 
 #define ll long long
-#define size 100001
+#define size 100001         //Size = 100001
 
 int main()
 {
