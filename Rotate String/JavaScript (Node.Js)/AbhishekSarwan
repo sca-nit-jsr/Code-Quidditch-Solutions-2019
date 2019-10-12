@@ -1,0 +1,44 @@
+/* Author: Abhishek Sarwan //worstguyalive
+   Github: github.com/abhisheksarwan
+*/
+
+
+'use strict'; process.stdin.resume(); process.stdin.setEncoding('utf-8'); let inputString = '';
+let currentLine = 0; process.stdin.on('data', inputStdin => { inputString += inputStdin;}); 
+process.stdin.on('end', _ => {inputString = inputString.trim().split('\n').map(string => 
+{ return string.trim();}); main();}); function readLine() { return inputString[currentLine++];}
+
+
+//please ignore the lines above this
+
+
+function main() {
+    const sizeString = +(readLine()); //inputs size of string
+    const  S =  (readLine()); //inputs string
+    var testCases = +(readLine()); //inputs no. of test cases
+    
+    var leftCount = 0; 
+    var rightCount = 0;
+    var count = 0;
+    
+    while(testCases--)
+    
+    {
+    
+   
+    var testCase = readLine(); // inputs test case
+    var tc = testCase.split(' '); //splitting single line test case 
+    var type = tc[0]; //inputs if l or r rotation
+    var num = tc[1]; //inputs number of l or r rotation
+    
+    if(type == 'r') 
+    {rightCount = rightCount + (+num)} //for right rotation; increases count by num
+    else {leftCount = leftCount + (+num);} //for left rotation increase count by num
+        
+    }
+    //if right rotations are to be done
+    if(rightCount>leftCount) {count = rightCount - leftCount; count %=S.length; console.log(S.substr(S.length-count,S.length) + S.substr(0,S.length-count))}
+    //if left rotations are to be done
+    else {count = leftCount - rightCount; count%=S.length; console.log(S.substr(count,S.length) + S.substr(0,count))}
+    
+}
