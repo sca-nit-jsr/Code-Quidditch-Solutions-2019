@@ -8,6 +8,7 @@
 
   Language Used : Python3
 
+
 ## Contributor - 2
 
   Name: Balasubramanian.R
@@ -17,3 +18,12 @@
   Question Solved : Special Price, Rotate String, Swachh Bharat, Excited Sunny!!!, Binary Movement.
   
   Language Used : C++
+  
+ 
+ ## Question Setters
+ 
+  1. Name: Sudhir Verma
+  
+  2. Name: Rishabh Kanojia
+  
+  3. Name: Ankit Saini
