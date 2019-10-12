@@ -6,7 +6,7 @@
 
   Question Solved : Rotate String, Swachh Bharat, Binary Movement, Excited Sunny !!!
 
-  Language Used : Python3
+  Language Used : Python3, C (Except Rotate String)
 
 
 ## Contributor - 2
