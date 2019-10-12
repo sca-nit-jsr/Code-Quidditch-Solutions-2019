@@ -2,15 +2,15 @@
 # Github Profile = https://github.com/shubham2704
 
 size = 100001
-n = int(raw_input())
+n = int(input())
 
 arr = []
 
 for i in range(0,n):
-	i = int(raw_input())
+	i = int(input())
 	arr.append(i)
 
-query = int(raw_input())
+query = int(input())
 
 hash = [0]*size
 
@@ -27,8 +27,8 @@ for l in hash:
 	hash[l] = 1 + hash[l-1]
 
 while query!=0:
-	price1 = int(raw_input())
-	price2 = int(raw_input())
+	price1 = int(input())
+	price2 = int(input())
 
 	if(price1>0):
 		print(hash[price2]-hash[price1-1])
