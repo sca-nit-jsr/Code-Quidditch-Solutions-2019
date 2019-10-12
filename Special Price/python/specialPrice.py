@@ -1,3 +1,5 @@
+# Author Name = Shubham Goswami
+# Github Profile = https://github.com/shubham2704
 
 size = 100001
 n = int(raw_input())
