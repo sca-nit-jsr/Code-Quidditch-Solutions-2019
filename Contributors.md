@@ -23,6 +23,18 @@
   
   **Language Used :** C++
   
+  
+  
+## Contributor - 3
+
+  **Name:** Shubham Goswami
+  
+  **GitHub Profile :** [shubham2704](https://github.com/shubham2704)
+  
+  **Question Solved :** Special Price.
+  
+  **Language Used :** python
+  
  
  ## Question Setters
  
