@@ -6,7 +6,7 @@
 
   **GitHub Profile :** [RoyalEagle73](https://Github.com/RoyalEagle73)
 
-  **Question Solved :** Rotate String, Swachh Bharat, Binary Movement, Excited Sunny !!!
+  **Question Solved :** Rotate String, Swachh Bharat, Binary Movement, Excited Sunny !!!, Special Price
 
   **Language Used :** Python3, C (Except Rotate String)
 
@@ -32,7 +32,20 @@
   **Question Solved :** Rotate String
   
   **Language Used :** JavaScript(Node.Js)
+
+## Contributor - 4
+
+  **Name:** Kapil Kumar
   
+  **GitHub Profile :** [abhisheksarwan](https://github.com/kapil484)
+  
+  **Question Solved :** Rotate String
+  
+  **Language Used :** C
+
+  
+Github Profile: https://Github.com/kapil484
+
  
  ## Question Setters
  
