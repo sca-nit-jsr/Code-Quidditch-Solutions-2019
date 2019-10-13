@@ -1,4 +1,5 @@
-// Author: Kapil (MCA 2k19-NIT JSR)
+// Author: Kapil 
+// Github Profile: https://Github.com/kapil484
 
 /* The main aim of this program is to find the Number of turns made at the end
    and not during the process. So We count the number of Rotations made at the End 
