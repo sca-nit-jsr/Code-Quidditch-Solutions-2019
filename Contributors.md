@@ -29,7 +29,7 @@
   
   **GitHub Profile :** [abhisheksarwan](https://github.com/abhisheksarwan)
   
-  **Question Solved :** Rotate String
+  **Question Solved :** Rotate String, Excited Sunny!!!
   
   **Language Used :** JavaScript(Node.Js)
 
@@ -37,7 +37,7 @@
 
   **Name:** Kapil Kumar
   
-  **GitHub Profile :** [abhisheksarwan](https://github.com/kapil484)
+  **GitHub Profile :** [kapil484](https://github.com/kapil484)
   
   **Question Solved :** Rotate String
   
