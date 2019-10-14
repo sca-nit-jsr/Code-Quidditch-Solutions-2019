@@ -1,0 +1,26 @@
+/* Author: Abhishek Sarwan //worstguyalive
+   Github: abhisheksarwan
+*/
+
+'use strict'; process.stdin.resume(); process.stdin.setEncoding('utf-8'); let inputString = '';
+let currentLine = 0; process.stdin.on('data', inputStdin => { inputString += inputStdin;}); 
+process.stdin.on('end', _ => {inputString = inputString.trim().split('\n').map(string => 
+{ return string.trim();}); main();}); function readLine() { return inputString[currentLine++];}
+
+//please ignore above this line
+
+function main() {
+    
+    var TestCases = +(readLine());
+    
+    while(TestCases--){
+    var TestCase = readLine();
+    var tc = TestCase.split(' ');
+    var leftRange = tc[0];
+    var rightRange = tc[1];
+     
+    var ans =  Math.floor(Math.sqrt(rightRange)) - Math.ceil(Math.sqrt(leftRange)) + 1;
+     
+    if(ans%2 == 0) { console.log("Even"); }
+    else { console.log("Odd"); } }
+}
