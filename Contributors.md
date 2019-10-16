@@ -46,6 +46,18 @@
   
 Github Profile: https://Github.com/kapil484
 
+
+## Contributor - 5
+
+  **Name:** Manav Khorasiya
+  
+  **GitHub Profile :** https://github.com/ManavKhorasiya
+  
+  **Question Solved :** Binary Movement
+  
+  **Language Used :** C++
+
+
  
  ## Question Setters
  
