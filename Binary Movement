@@ -1,0 +1,48 @@
+/*
+Author name: Manav Khorasiya
+Github Profile: https://github.com/ManavKhorasiya
+*/
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+void funct(long long int a[],long long int n,long long int l,long long int r)
+{
+    long long int i,j;
+    for(i=l;i<=r;i++)
+    {
+        if(a[i]==1)
+            a[i]=0;
+        else
+            a[i]=1;
+    }
+}
+
+int main() 
+{
+    ios::sync_with_stdio(0);
+    long long int n;
+    cin>>n;
+    long long int a[n];
+    long long int i,j,q,count=0;
+    for(i=0;i<n;i++)
+        cin>>a[i];
+    cin>>q;
+    for(i=0;i<q;i++)
+    {
+        long long int l,r;
+        cin>>l>>r;
+        funct(a,n,l-1,r-1);
+        
+    }
+    for(i=0;i<n;i++)
+    {
+        if(a[i]==1)
+           count++; 
+    }
+    cout<<count<<endl;
+    for(i=0;i<n;i++)
+        cout<<a[i]<<" ";
+    return 0;
+}
